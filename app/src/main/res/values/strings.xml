@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Family Map Client - CS 240</string>
+
+    <string name="serverHost">Server Host:</string>
+    <string name="serverPort">Server Port:</string>
+    <string name="userName">User Name:</string>
+    <string name="firstName">First Name:</string>
+    <string name="lastName">Last Name:</string>
+
+    <string name="password">Password:</string>
+    <string name="emailAddress">Email:</string>
+    <string name="gender">Gender:</string>
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+
+    <string name="signInButton">SIGN IN</string>
+    <string name="registerButton">REGISTER</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
